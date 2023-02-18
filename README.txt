@@ -1,0 +1,12 @@
+In this repository:
+GrassHopper code for automatically generating the fabrication layers for the base designs.
+
+Acknowledgments
+Authors: 
+Fernandes Minori, A., Civici, U., Shen, S., Paul, S., Temel, Z., Yao, L., Bergbreiter, S. 
+Code contributor: Shen, S.
+Project: RevLock
+
+If using this code, please cite the paper/ contact the authors.\
+
+}
