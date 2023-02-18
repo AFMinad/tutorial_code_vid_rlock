@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RevLock_LayerGenerator
+message: >-
+  If you use this software, please cite both the article
+  from preferred-citation and the software itself.
+type: software
+authors:
+  - given-names: Adriane
+    family-names: Fernandes Minori
+    email: aminori@andrew.cmu.edu
+    affiliation: CMU
+    orcid: 'https://orcid.org/0000-0001-6586-7164'
+  - given-names: Umut
+    family-names: Civici
+    affiliation: Harvard
+  - given-names: Stella
+    family-names: Shen
+    email: chenyis@andrew.cmu.edu
+    affiliation: CMU
+  - given-names: Sophia
+    family-names: Paul
+    affiliation: UCSB
+  - given-names: Zeynep
+    family-names: Temel
+    email: ztemel@andrew.cmu.edu
+    affiliation: CMU
+  - given-names: 'Lining '
+    family-names: Yao
+    email: liningy@andrew.cmu.edu
+    affiliation: CMU
+  - given-names: Sarah
+    family-names: Bergbreiter
+    email: sbergbre@andrew.cmu.edu
+    affiliation: CMU
+repository-code: 'https://github.com/AFMinad/tutorial_code_vid_rlock.git'
+abstract: >
+  GrassHopper code for automatically generating the
+  fabrication layers for the base designs.
