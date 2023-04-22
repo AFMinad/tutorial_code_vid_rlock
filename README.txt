@@ -3,7 +3,7 @@ GrassHopper code for automatically generating the fabrication layers for the bas
 
 Acknowledgments
 Authors: 
-Fernandes Minori, A., Civici, U., Shen, S., Paul, S., Temel, Z., Yao, L., Bergbreiter, S. 
+Fernandes Minori, A., Civici, U., Shen, S., Paul, S., Temel, Z., Bergbreiter, S., Yao, L. 
 Code contributor: Shen, C.
 Project: RevLock
 
